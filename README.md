@@ -9,10 +9,10 @@ Hello! In this document, I made a project to estimate engine efficiency with sim
 </div>
 
 # Gerekli Modüller | Required Modules
-*tensorflow 2.5.0
-*numpy 1.19.5
-*pandas 1.3.5
-*matplotlib 3.5.0
+tensorflow 2.5.0 <br/>
+numpy 1.19.5 <br/>
+pandas 1.3.5 <br/>
+matplotlib 3.5.0 <br/>
 ```
 pip install tensorflow
 pip install numpy
