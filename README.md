@@ -1,7 +1,7 @@
 # Tahmin algoritmaları | Regression algorithms
 Merhabalar! Bu dökümanda youtube üzerinden de işlemiş olduğumuz basit doğrusal tahmin ve derin tahmin algoritmalarıyla motor verimliliğini tahmin etmek üzere proje yaptım.
 
-Hello! In this document, I made a project to estimate engine efficiency with simple linear estimation and deep estimation algorithms that we have processed on youtube.
+Hello! In this document, I made a project to estimate engine efficiency with simple linear regression and deep regression algorithms that we have processed on youtube.
 
 <div style="float:left;">
 <img src="https://raw.githubusercontent.com/umutkaanbaser/regression/main/derin.png" width="350" title="Deep Regression"/>
@@ -21,5 +21,7 @@ pip install matplotlib
 ```
 
 # Kazanımlar | Gains
-
-
+- Python ile basit doğrusal tahmin ve derin tahmin modelleri nasıl oluşturulur, Tensorflow ile tahmin modelleri nasıl yapılır ?
+- Derin yapay sinir ağı nasıl oluşturulur ? 
+- Ortalama mutlak hata nedir, derin modellerde nasıl kullanılır ? 
+- Pandas ile veriler nasıl işlenir ?
